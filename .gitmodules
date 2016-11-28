@@ -1,0 +1,3 @@
+[submodule "SumDUSheduleParse"]
+	path = SumDUSheduleParse
+	url = git://github.com/Goro995/SumDUSheduleParse
